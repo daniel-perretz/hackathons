@@ -1,0 +1,13 @@
+
+.header{
+    padding:10px;
+    z-index:2;
+    background-color: white;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.logo{
+    height:60px;
+    margin-top:10px;
+    margin-left:15%;
+}
